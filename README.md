@@ -21,7 +21,6 @@ flutter_icons:
   ios: true # can specify file name here e.g. "My-Launcher-Icon"
   adaptive_icon_background: "assets/images/app-icon-background.png" # only available for Android 8.0 devices and above
   adaptive_icon_foreground: "assets/images/app-icon-foreground.png" # only available for Android 8.0 devices and above
-  
-  `
+`
   
 `flutter pub run flutter_launcher_icons:main`
