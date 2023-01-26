@@ -1,5 +1,5 @@
-## Flutter Project Settig Up Commands
-- While creating a new Flutter Projects there are some necessory packages dependencies and dev-dependencies are required to be added
+## Flutter Project SettingUp Commands
+- While creating a new Flutter Projects there are some necessary packages dependencies and dev-dependencies are required to be added
 
 ### app dependencies
 `flutter pub add cached_network_image carousel_slider connectivity_plus equatable firebase_auth firebase_core flutter_svg get_it http logger path_provider sentry_flutter shared_preferences simple_animations stacked_services url_launcher`

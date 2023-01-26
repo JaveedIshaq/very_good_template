@@ -1,0 +1,47 @@
+name: very_good_template
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: 3.3.10
+
+dependencies:
+  bloc: ^8.1.0
+  cached_network_image: ^3.2.3
+  carousel_slider: ^4.2.1
+  connectivity_plus: ^3.0.2
+  equatable: ^2.0.5
+  firebase_auth: ^4.2.5
+  firebase_core: ^2.4.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^1.1.6
+  get_it: ^7.2.0
+  http: ^0.13.5
+  intl: ^0.17.0
+  logger: ^1.1.0
+  path_provider: ^2.0.12
+  sentry_flutter: ^6.19.0
+  shared_preferences: ^2.0.17
+  simple_animations: ^5.0.0+3
+  stacked_services: ^0.9.9
+  url_launcher: ^6.1.8
+
+dev_dependencies:
+  bloc_test: ^9.1.0
+  build_runner: ^2.3.3
+  change_app_package_name: ^1.1.0
+  flutter_launcher_icons: ^0.11.0
+  flutter_test:
+    sdk: flutter
+  mocktail: ^0.3.0
+  very_good_analysis: ^3.1.0
+
+flutter:
+  uses-material-design: true
+  generate: true
