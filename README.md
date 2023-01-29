@@ -2,10 +2,10 @@
 - While creating a new Flutter Projects there are some necessary packages dependencies and dev-dependencies are required to be added
 
 ### app dependencies
-`flutter pub add cached_network_image carousel_slider connectivity_plus equatable firebase_auth firebase_core flutter_svg get_it http logger path_provider sentry_flutter shared_preferences simple_animations stacked_services url_launcher`
+`flutter pub add cached_network_image carousel_slider connectivity_plus equatable firebase_auth firebase_core flutter_svg get_it http logger path_provider sentry_flutter shared_preferences simple_animations stacked_services url_launcher bloc flutter_bloc stacked_services`
 
 ### dev dependencies
-`flutter pub add --dev change_app_package_name flutter_launcher_icons build_runner`
+`flutter pub add --dev change_app_package_name flutter_launcher_icons build_runner bloc_test mocktail`
 
 ### change Package Name Command
 `flutter pub run change_app_package_name:main com.domain.app`
